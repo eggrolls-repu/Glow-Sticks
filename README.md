@@ -28,3 +28,32 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
 
 [![Video 1 of the mod in action](https://img.youtube.com/vi/kkcDjL3PImI/0.jpg)](https://www.youtube.com/watch?v=kkcDjL3PImI)
 [![Video 2 of the mod in action](https://img.youtube.com/vi/MJugLm7j-uc/0.jpg)](https://www.youtube.com/watch?v=MJugLm7j-uc)
+
+
+<details>
+  <summary>(For google searches) Fixed these errors</summary>
+
+  [glow-sticks] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+    1. SetColor - lua/includes/extensions/entity.lua:192
+     2. unknown - addons/glow-sticks/lua/weapons/weapon_glowstick_blue/shared.lua:66
+      3. SelectWeapon - [C]:-1
+       4. unknown - gamemodes/sandbox/gamemode/commands.lua:853
+        5. unknown - lua/includes/modules/concommand.lua:54
+
+  Giving Here lies Eggroll's Eggrolls a weapon_glowstick_blue
+
+  [glow-sticks] Trying to remove server entity ent_glowstick_glow_blue#325 on client!
+    1. unknown - addons/glow-sticks/lua/weapons/weapon_glowstick_blue/shared.lua:144 (x2)
+
+  [Here lies Eggroll's Eggrolls|3|STEAM_0:0:38357989] Lua Error:
+
+  [glow-sticks] Trying to remove server entity ent_glowstick_glow_blue#325 on client!
+    1. unknown - addons/glow-sticks/lua/weapons/weapon_glowstick_blue/shared.lua:144
+
+
+  [Here lies Eggroll's Eggrolls|3|STEAM_0:0:38357989] Lua Error:
+
+  [glow-sticks] Trying to remove server entity ent_glowstick_glow_blue#325 on client!
+    1. unknown - addons/glow-sticks/lua/weapons/weapon_glowstick_blue/shared.lua:144
+
+</details>
