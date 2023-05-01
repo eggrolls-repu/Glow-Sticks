@@ -8,4 +8,4 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
 
 ![New Features](https://media.discordapp.net/attachments/805660223020072973/1102451911552159744/Text_layer_1.png)
 ![Red Means New!](https://media.discordapp.net/attachments/805660223020072973/1102455276856164402/Screenshot_2023-04-30_213122.png)
-`[Video of the mod "in action"](https://cdn.discordapp.com/attachments/805660223020072973/1102457902649856090/Glow_Dicks.mp4)`
+`[Video of the mod "in action"](https://youtu.be/kkcDjL3PImI)`
