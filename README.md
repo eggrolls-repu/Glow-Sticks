@@ -4,7 +4,7 @@
 
 First of all, I didn't create this addon, the two people that created this are [Nakotuhin](https://steamcommunity.com/profiles/76561198000792947) and [boat gf.](https://steamcommunity.com/profiles/76561198008697129). Here is the [orginal workshop link](https://steamcommunity.com/sharedfiles/filedetails/?id=121438260).
 
-I edited this addon because I was bored and because it's a neat addon, and lua errors are annoying. I added more customization options. I worked pretty hard to get this working for a person that has little lua knowlage. I hope some people enjoy this and please feel free to make a pull request, open a new issue, or comment on the steam workshop page. I am always willing to help when I have the time.
+I edited this addon because I was bored and because it's a neat addon, and lua errors are annoying. I added more customization options. I worked pretty hard to get this working for a person that has little lua knowledge. I hope some people enjoy this and please feel free to make a pull request, open a new issue, or comment on the [steam workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2969753480). I am always willing to help when I have the time.
 
 <p align="center">
   <br>
