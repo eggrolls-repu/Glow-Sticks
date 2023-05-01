@@ -11,6 +11,16 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102451911552159744/Text_layer_1.png">
   <br>
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102455276856164402/Screenshot_2023-04-30_213122.png">
+  <br>
+  sv_glowstickliveforever       // Should Glow Sticks live forever (0-1)
+  sv_glowsticklifetime          // Glow Stick lifetime in seconds (Def. 25)
+  sv_glowstickthrowforce        // Glow Stick throw force (Def. 12)
+  sv_glowstickthrowdelay        // Glow Stick throw delay in seconds (Def. 2)
+  sv_glowstickdropdelay         // Glow Stick drop delay in seconds (Def. 2)
+  sv_glowstickfullauto          // Full auto Glow Sticks!?!? (Min. 0 Max 1)
+  sv_glowstickammo              // Default amount of Glow Sticks players spawn with (Def. 5)
+  sv_glowstickdroppedbrightness // Glow Stick brightness when dropped, can go negative (Min. -10 Max 10 Def. 0)
+  sv_glowstickbrightness        // Glow Stick brightness when held, can go negative (Min. -10 Max 10 Default 0)
   <br> 
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102460921818906704/Text_layer_1.png">
   <br>
