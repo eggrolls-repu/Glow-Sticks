@@ -11,3 +11,6 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
   <br>
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102455276856164402/Screenshot_2023-04-30_213122.png">
 </p>
+
+[![Video 1 of the mod in action](https://img.youtube.com/vi/kkcDjL3PImI/0.jpg)](https://www.youtube.com/watch?v=kkcDjL3PImI)
+[![Video 2 of the mod in action](https://img.youtube.com/vi/MJugLm7j-uc/0.jpg)](https://www.youtube.com/watch?v=MJugLm7j-uc)
