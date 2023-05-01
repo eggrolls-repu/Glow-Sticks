@@ -10,6 +10,7 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102451911552159744/Text_layer_1.png">
   <br>
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102455276856164402/Screenshot_2023-04-30_213122.png">
+  <br>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kkcDjL3PImI" frameborder="0" allowfullscreen></iframe>
+  <br>
 </p>
-
-`[Video of the mod "in action"](https://youtu.be/kkcDjL3PImI)`
