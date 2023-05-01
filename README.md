@@ -11,10 +11,3 @@ I edited this addon because I was bored and because it's a neat addon, and lua e
   <br>
   <img src="https://media.discordapp.net/attachments/805660223020072973/1102455276856164402/Screenshot_2023-04-30_213122.png">
 </p>
-
-<figure>
-  <p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kkcDjL3PImI" frameborder="0" allowfullscreen></iframe>
-  </p>
-  <figcaption>Here's a cool video I found</figcaption>
-</figure>
